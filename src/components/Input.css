@@ -1,0 +1,9 @@
+#container{
+    height: 50px;
+    /* width: 300px; */
+}
+
+#container input{
+    margin: 10px;
+}
+

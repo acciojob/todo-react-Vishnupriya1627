@@ -1,0 +1,14 @@
+#list_container{
+    margin: 10px;
+}
+
+#list_item{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    padding: 4px;
+    margin: 10px;
+}

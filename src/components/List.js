@@ -1,3 +1,4 @@
+import React from 'react';
 import './List.css'
 
 const List = ({ list, onDelete }) => {

@@ -14,12 +14,12 @@ const Input = () => {
 
   const handleSubmit = () => {
     const userInput = input.trim();
-    if (userInput == "") {
+    if (userInput === "") {
       alert("Input a task");
       return;
     }
 
-    setList((prev) => [...prev, input]);
+    setList((prev) => [...prev, userInput]);
     setInput("");
   };
 

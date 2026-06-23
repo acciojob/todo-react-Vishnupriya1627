@@ -1,6 +1,6 @@
 import React from "react";
 import "./../styles/App.css";
-import Input from "./Input.js";
+import Input from "./Todo.js";
 
 const App = () => {
   return (
